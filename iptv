@@ -1,11 +1,19 @@
 #EXTM3U
-#EXTINF:-1,A
-http://www.knaqu.tv/live-tv.html
-#EXTINF:-1,B
-http://www.knaqu.tv/live-tv.html
-#EXTINF:-1,C
-http://www.knaqu.tv/live-tv.html
-#EXTINF:-1,D
-http://www.knaqu.tv/live-tv.html
-#EXTINF:-1,D
-http://www.knaqu.tv/live-tv.html
+#EXTINF:-1,VISION PLUS HD
+http://www.knaqu.tv/live-tv/vizion-plus-live.html
+#EXTINF:-1,TOP CHANNEL HD
+http://www.knaqu.tv/live-tv/top-channel-live.html
+#EXTINF:-1,TV KLAN HD
+http://www.knaqu.tv/live-tv/tv-klan-hd.html
+#EXTINF:-1,KLAN KOSOVA HD
+http://www.knaqu.tv/live-tv/klan-kosova-live.html
+#EXTINF:-1,RTK 1 HD
+http://www.knaqu.tv/live-tv/rtk1-live.html
+#EXTINF:-1,TRING FANAZI
+http://www.knaqu.tv/live-tv/tring-fantazi.html
+#EXTINF:-1,RTV 21 HD
+http://www.knaqu.tv/live-tv/rtv-21.html
+#EXTINF:-1,TRING AKSION
+http://www.knaqu.tv/live-tv/tring-action.html
+#EXTINF:-1,KTV HD
+http://www.knaqu.tv/live-tv/ktv-live.html
